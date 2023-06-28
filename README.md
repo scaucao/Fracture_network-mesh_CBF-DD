@@ -7,7 +7,7 @@ Available in: <a href="" target="_blank">link</a>
 
 To load the mesh in FreeFem++, use the code:
 
-mesh Th = readmesh("Fracture_mesh.msh");
+mesh Th = readmesh("Fracture-mesh.msh");
 
 
 Labels setting:
