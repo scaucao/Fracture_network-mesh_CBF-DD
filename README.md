@@ -1,9 +1,9 @@
 # Fracture_network-mesh_CBF-DD
 This repository contains the mesh file for the numerical example: "Example 3: Flow through a 2D porous media with fracture network" of the work:
 
-S. Carrasco, S. Caucao, and G.N. Gatica: New mixed finite element methods for the coupled convective Brinkman-Forchheimer and double-diffusion equations. Preprint 2023-16, Centro de Investigación en Ingeniería Matemática (CI²MA), Universidad de Concepción, (2023). 
+S. Carrasco, S. Caucao, and G.N. Gatica: New mixed finite element methods for the coupled convective Brinkman-Forchheimer and double-diffusion equations. Journal of Scientific Computing, vol. 97, 3, article: 61, (2023).
 
-Available in: <a href="https://ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacionen.php?id=522" target="_blank">https://ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacionen.php?id=522</a>
+Available in: <a href="https://doi.org/10.1007/s10915-023-02371-7" target="_blank">10.1007/s10915-023-02371-7</a>
 
 To load the mesh in FreeFem++, use the code:
 
